@@ -1,0 +1,79 @@
+/* GENERAL */
+
+body {
+    font-family: 'Raleway', sans-serif;
+    padding-top: 40px;
+}
+
+hr {
+    border: none;
+    border-top: 3px solid #363943;
+    opacity: 1 !important;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.white {
+    color: #343a40;
+    font-size: 23px;
+    border: 4px solid #fff;
+    background-color: #fff;
+    position: relative;
+    top: -42px;
+}
+
+.grey {
+    color: #343a40;
+    font-size: 23px;
+    border: 4px solid #f2f2f2;
+    background-color: #f2f2f2;
+    position: relative;
+    top: -42px;
+}
+
+/* SLİDER */
+
+.img-slider {
+    height: 545px;
+}
+
+/* NAVBAR */
+
+.nav-link:hover {
+    font-weight: bold;
+}
+
+/* ABOUT TEAM GALLERY */
+
+.about,
+.gallery {
+    background-color: #f2f2f2;
+}
+
+.card {
+    margin-bottom: 2.4rem;
+}
+
+.card-img>img:hover {
+    opacity: 0.8;
+}
+
+
+
+.figure:hover {
+    opacity: 0.8;
+}
+
+/* FORM */
+
+.row input,
+.row textarea {
+    display: inline-block;
+    width: 80%;
+}
+
+.btn {
+    width: 79%;
+    margin: auto;
+    background-color: #0AB0E4;
+}
